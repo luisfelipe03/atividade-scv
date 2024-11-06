@@ -7,8 +7,11 @@
   </tr>
   <tr>
     <td>Rodrigo</td>
-    <td>Maceio</td>
+    <td>Maceió</td>
+  </tr>
+  <tr>
     <td>Luis Felipe</td>
     <td>Recife</td>
   </tr>
 </table>
+
